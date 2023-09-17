@@ -18,5 +18,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alphadev30/crudexpress.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Alphadev30/crudexpress/issues"
+  },
+  "homepage": "https://github.com/Alphadev30/crudexpress#readme",
   "description": ""
 }
